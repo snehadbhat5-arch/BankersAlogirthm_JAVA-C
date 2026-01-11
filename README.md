@@ -9,10 +9,15 @@ In this project:
  Java executes the compiled C program and displays its output
  # Features
 ✔ Implements Banker’s Algorithm
+
 ✔ Checks whether the system is in a SAFE or UNSAFE state
+
 ✔ Displays a valid Safe Sequence if one exists
+
 ✔ Java frontend communicates with C backend
+
 ✔ Simple and user-friendly GUI
+
 ✔ Suitable for OS lab / academic project
 # Technologies Used
 C – Backend algorithm implementation
